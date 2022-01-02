@@ -230,6 +230,9 @@ public class BaseClassLibGlobal{
 
 		return name;
 	}
+	private void screenshot() {
+		System.out.println("screenshot");
+	}
 
 
 }
